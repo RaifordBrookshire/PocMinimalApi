@@ -20,7 +20,9 @@ Use this entire solution as a starter for your own Minimal API.
 
 To make it easy to update the project name to your new name run this script
 
-`'`PS .\update-name.ps1 -newname "NewProjectName"
+``` 
+PS .\update-name.ps1 -newname "NewProjectName"
+```
 
 
 ### For more complex Projects
