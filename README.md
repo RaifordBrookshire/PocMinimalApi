@@ -25,6 +25,7 @@ PS .\update-name.ps1 -newname "NewProjectName"
 ```
 
 
+
 ### For more complex Projects
 For larger projects, it is recommended to have multiple projects within a single solution for better organization and maintainability of the codebase.
 
